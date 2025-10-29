@@ -8,5 +8,6 @@ This repository contains packaging designs for AOSC OS and Afterglow physical me
 Fonts Used / 使用的字体
 ---
 
+- [方正黑体](https://www.foundertype.com/index.php/FontInfo/index/id/131)
 - [MiSans](https://hyperos.mi.com/font)
 - [Trebuchet MS](https://learn.microsoft.com/en-us/typography/font-list/trebuchet-ms)
